@@ -1,2 +1,5 @@
 # IntelliJ Files
 .idea
+
+# HTML Files
+*.html
